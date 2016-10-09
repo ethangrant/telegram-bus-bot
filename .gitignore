@@ -1,0 +1,14 @@
+app/Http/Middleware/VerifyCsrfToken.php
+config/telegram.php
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+/bootstrap/compiled.php
+.idea/
+.env.example
+.env.php
+.env
+composer.phar
